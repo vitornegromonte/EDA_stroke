@@ -1,0 +1,1 @@
+This diretocry contains the plots files generated in the R and the Python directories
