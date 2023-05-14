@@ -13,3 +13,4 @@ pip install -r requirements.txt
 jupyter notebook 
 ````
 -->
+![Diagrama das linguagens de programação](diagram.svg)
